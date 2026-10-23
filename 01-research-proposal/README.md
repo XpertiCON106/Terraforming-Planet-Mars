@@ -52,6 +52,10 @@ Many people have pointed out that the topic of terraforming of planet Mars is po
 
 There are some considerations that I need to take into account for this project. First and foremost, I need to acquire myself a 1080p video camera. Currently I have a 720p camera, but in order to produce crystal clear video for my project, I need to buy 1080p video camera. Also for the film I need to have special equipment, such as green screen, lighting, microphones, and etc. In addition, the software for the 3D animation cost $599 USD. Therefore, all together this project will cost me around $1000.00 USD. Not to mention, I will need to recruit some people that will help me in this overall project. Although this project may seem costly, at the end of the day, it is the final product that really matters.
 
----
+## Scans
 
-*Transcribed from the printed research proposal. Place the original page photographs in [`scans/`](scans/).*
+The original printed pages.
+
+1. [Page 1](scans/page-01.jpg)
+2. [Page 2](scans/page-02.jpg)
+3. [Page 3](scans/page-03.jpg)

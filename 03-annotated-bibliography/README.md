@@ -245,3 +245,25 @@ Zubrin, Robert M., and Christopher P. McKay. "Technological Requirements for Ter
 Through surface examination, planet Mars is considered to have an atmosphere similar to Earth in its past. Carbon dioxide played a key role in the development of Mars thick atmosphere. Researchers at NASA Ames Research Center stated that such amount of carbon dioxide is frozen in volatile form in the polar caps. Thus, heating up the planet's surface will release the carbon dioxide and promote greenhouse gases that would later form a warm and stable atmosphere. There are a number of ways to do this and orbiting mirrors is one of them. This method involves mirrors with dimensions of 100 km radius. Three such mirrors will triangulate and focus the Sun's light unto the polar regions. Another method to terraform the planet is to direct an asteroid toward the planet. The researchers stated that the substances within the asteroid can be used as propellant, and set it up as a collision trajectory with Mars. That, in turn, will heat the surface of the planet and further promote greenhouse gases. Nonetheless, all the methods proposed in this article follows one single purpose: that is to warm up the planet Mars.
 
 This is an excellent source that ventures upon possible ways to terraform the planet Mars. It looks into several ways, or methods that can be used to meet the goal. It also provides a mathematical perspective of the methods being presented. Overall, the article presents several methods and provides the reasoning for such methods.
+
+## Scans
+
+The original printed pages.
+
+1. [Page 1](scans/page-01.jpg)
+2. [Page 2](scans/page-02.jpg)
+3. [Page 3](scans/page-03.jpg)
+4. [Page 4](scans/page-04.jpg)
+5. [Page 5](scans/page-05.jpg)
+6. [Page 6](scans/page-06.jpg)
+7. [Page 7](scans/page-07.jpg)
+8. [Page 8](scans/page-08.jpg)
+9. [Page 9](scans/page-09.jpg)
+10. [Page 10](scans/page-10.jpg)
+11. [Page 11](scans/page-11.jpg)
+12. [Page 12](scans/page-12.jpg)
+13. [Page 13](scans/page-13.jpg)
+14. [Page 14](scans/page-14.jpg)
+15. [Page 15](scans/page-15.jpg)
+16. [Page 16](scans/page-16.jpg)
+17. [Page 17](scans/page-17.jpg)

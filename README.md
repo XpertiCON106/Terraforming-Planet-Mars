@@ -1,5 +1,7 @@
 # Reviving the Fallen: Ways to terraform planet Mars
 
+<p align="center"><img src="cover.jpg" alt="Project cover: Reviving the Fallen, Terraforming Planet Mars" width="420"></p>
+
 **Author:** Tahalil Morsilin
 
 **Program:** Independent Research GT
@@ -24,9 +26,9 @@ What is the most effective way to terraform the planet Mars?
 | 4 | [Synthesis Paper](04-synthesis-paper/README.md) | Complete |
 | 5 | [Primary Research](05-primary-research/README.md) | Complete |
 | 6 | [Final Product and Presentations](06-final-product-and-presentations/README.md) | Complete |
-| 7 | [Acknowledgements](07-acknowledgements/README.md) | Pending |
+| 7 | [Acknowledgements](07-acknowledgements/README.md) | Complete |
 
-Sections 1 through 6 are transcribed from the printed pages. Section 7 is a placeholder. Each section has a `scans/` folder for the original page photographs; those pages will be transcribed into the section README when they are added.
+All seven sections are transcribed from the printed pages. Each section has a `scans/` folder for photographs of the original pages.
 
 ## Repository structure
 

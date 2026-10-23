@@ -66,3 +66,20 @@ Reyes, Tim. "NASA's Curiosity Rover Detects Methane, Organics on Mars." *NASA's 
 "Volcanic Gases and Their Effects." *USGS: Science for a Changing World*. U.S. Department of The Interior & U.S. Geological Survey, 11 June 2010. Web. 25 Sep. 2014. Web.
 
 Zubrin, Robert M., and Christopher P. McKay. "Technological Requirements for Terraforming Mars." *Technological Requirements for Terraforming Mars*. N.p., 17 Jan. 2006. Web. 11 Oct. 2014
+
+## Scans
+
+The original printed pages.
+
+1. [Page 1](scans/page-01.jpg)
+2. [Page 2](scans/page-02.jpg)
+3. [Page 3](scans/page-03.jpg)
+4. [Page 4](scans/page-04.jpg)
+5. [Page 5](scans/page-05.jpg)
+6. [Page 6](scans/page-06.jpg)
+7. [Page 7](scans/page-07.jpg)
+8. [Page 8](scans/page-08.jpg)
+9. [Page 9](scans/page-09.jpg)
+10. [Page 10](scans/page-10.jpg)
+11. [Page 11](scans/page-11.jpg)
+12. [Page 12](scans/page-12.jpg)

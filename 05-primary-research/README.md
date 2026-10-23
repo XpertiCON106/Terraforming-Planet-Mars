@@ -240,3 +240,21 @@ My next question to Dr. McKay was actually based on one of its paper. I asked hi
 #### Reflection
 
 This interview went moderately well. This is because I sort of knew all of the information that he had provided. For instance, I already knew that water was a component factor. Dr. McKay really didn't provide me with numerical datas as I had expected, but rather he sort of provided me with all the ethical implications of terraforming. Which is an important factor, but it is not the focus of my research. Again, that is not to say that Dr. McKay is incorrect in bringing up ethical implications. But rather, he's absolutely correct. We do need to think about whether we should terraform Mars or not. My research does not focus on that, my research ventures upon the methods of terraforming, and how can it be implemented based on the current technology. Overall, Dr. McKay did set a new perspective unto the concept of terraforming; does humans attains the right to modify nature.
+
+## Scans
+
+The original printed pages.
+
+1. [Page 1](scans/page-01.jpg)
+2. [Page 2](scans/page-02.jpg)
+3. [Page 3](scans/page-03.jpg)
+4. [Page 4](scans/page-04.jpg)
+5. [Page 6](scans/page-06.jpg)
+6. [Page 7](scans/page-07.jpg)
+7. [Page 8](scans/page-08.jpg)
+8. [Page 9](scans/page-09.jpg)
+9. [Page 10](scans/page-10.jpg)
+10. [Page 11](scans/page-11.jpg)
+11. [Page 12](scans/page-12.jpg)
+12. [Page 13](scans/page-13.jpg)
+13. [Page 14](scans/page-14.jpg)
