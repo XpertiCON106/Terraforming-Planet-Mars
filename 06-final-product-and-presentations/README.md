@@ -73,3 +73,13 @@ The slides were printed as small handouts, so the text below is read from those 
     - Ballard, Dawn. Mars Transition. Digital image. Wikipedia.org. Wikipedia, 09 Jul 2006. Web. 14 May 2015.
     - NASA, ESA, and The Hubble Heritage Team. Mars 23 Aug 2003 Hubble. Digital image. Hubblesite.org. NASA, 23 Aug. 2003. Web. 14 May 2015.
     - Schoutt, Harrison, and Ron Evans. The Blue Marble. Digital image. Nasa.gov. NASA, 07 Dec. 1972. Web. 14 May 2015.
+
+## Scans
+
+The original printed pages.
+
+1. [Final Product Reflection](scans/page-1-final-product-reflection.jpg)
+2. [Final Product Film Snapshot](scans/page-2-film-snapshot.jpg)
+3. [Presentation Summary](scans/page-3-presentation-summary.jpg)
+4. [Presentation slides 1–6](scans/page-4-slides-1-6.jpg)
+5. [Presentation slides 7–11](scans/page-5-slides-7-11.jpg)
