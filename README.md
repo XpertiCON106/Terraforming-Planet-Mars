@@ -20,13 +20,13 @@ What is the most effective way to terraform the planet Mars?
 | --- | --- | --- |
 | 1 | [Research Proposal](01-research-proposal/README.md) | Complete |
 | 2 | [Abstract](02-abstract/README.md) | Complete |
-| 3 | [Annotated Bibliography](03-annotated-bibliography/README.md) | Pending |
+| 3 | [Annotated Bibliography](03-annotated-bibliography/README.md) | Complete |
 | 4 | [Synthesis Paper](04-synthesis-paper/README.md) | Pending |
 | 5 | [Primary Research](05-primary-research/README.md) | Pending |
 | 6 | [Final Product and Presentations](06-final-product-and-presentations/README.md) | Pending |
 | 7 | [Acknowledgements](07-acknowledgements/README.md) | Pending |
 
-Sections 1 and 2 are transcribed from the printed pages. Sections 3–7 are placeholders. Each section has a `scans/` folder for the original page photographs; those pages will be transcribed into the section README when they are added.
+Sections 1 through 3 are transcribed from the printed pages. Sections 4–7 are placeholders. Each section has a `scans/` folder for the original page photographs; those pages will be transcribed into the section README when they are added.
 
 ## Repository structure
 
