@@ -8,7 +8,7 @@
 
 ## Overview
 
-This project studies how Mars, a cold and dry world, might be changed into a place where human life could survive. Mars is treated as the strongest candidate for terraforming because it is relatively similar to Earth and its surface still shows signs of a thicker atmosphere in the past. The proposal reviews methods such as importing ammonia, orbital mirrors, and super greenhouse gases, and argues that the carbon dioxide already on Mars is not enough to warm the planet on its own.
+The chances of planet Earth ever becoming too inhospitable for living organisms due to asteroid/meteor collision, or any other internal factor, such as global warming or perhaps human conflicts such as warfare, are extremely high, as each of these events have occurred, or in the process of occurring right now. The primary aim of this project is to better understand the concept of terraforming in order to increase the probability of human species' survival in the face of planet Mars, and come to a consensus about what is the best method for terraforming planet Mars that is both effective, and possible within the current technological standards. The data collection of Mars Climate Database (MCD) suggests that there is a relative relationship between the level of water vapor and temperature, and that relative, or perhaps balanced warming can give rise to the existence of water vapor, which is a fundamental force of terraforming. Ultimately, a short film will be produced that will summarize the journey of this research, and how it came to be and how the problem is a global issue rather than a science fiction. The video will also include various forms of animations that will present the process of terraforming as well as showcase the journey to planet Mars.
 
 ## Research question
 
@@ -19,14 +19,14 @@ What is the most effective way to terraform the planet Mars?
 | # | Section | Status |
 | --- | --- | --- |
 | 1 | [Research Proposal](01-research-proposal/README.md) | Complete |
-| 2 | [Abstract](02-abstract/README.md) | Pending |
+| 2 | [Abstract](02-abstract/README.md) | Complete |
 | 3 | [Annotated Bibliography](03-annotated-bibliography/README.md) | Pending |
 | 4 | [Synthesis Paper](04-synthesis-paper/README.md) | Pending |
 | 5 | [Primary Research](05-primary-research/README.md) | Pending |
 | 6 | [Final Product and Presentations](06-final-product-and-presentations/README.md) | Pending |
 | 7 | [Acknowledgements](07-acknowledgements/README.md) | Pending |
 
-Section 1 is transcribed from the printed proposal. Sections 2–7 are placeholders. Each section has a `scans/` folder for the original page photographs; those pages will be transcribed into the section README when they are added.
+Sections 1 and 2 are transcribed from the printed pages. Sections 3–7 are placeholders. Each section has a `scans/` folder for the original page photographs; those pages will be transcribed into the section README when they are added.
 
 ## Repository structure
 
