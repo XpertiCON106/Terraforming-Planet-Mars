@@ -1,3 +1,5 @@
+<a href="../README.md"><img src="../assets/banners/02-abstract.svg" width="100%" alt="Reviving the Fallen: Ways to terraform planet Mars. 2. Abstract."></a>
+
 **Tahalil Morsilin**
 
 Independent Research G/T
@@ -11,3 +13,5 @@ The chances of planet Earth ever becoming too inhospitable for living organisms 
 The original printed pages.
 
 1. [Page 1](scans/page-01.jpg)
+
+<a href="scans/"><img src="../assets/galleries/02-abstract.svg" width="100%" alt="The original printed pages."></a>

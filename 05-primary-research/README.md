@@ -1,3 +1,5 @@
+<a href="../README.md"><img src="../assets/banners/05-primary-research.svg" width="100%" alt="Reviving the Fallen: Ways to terraform planet Mars. 5. Primary Research."></a>
+
 # Primary Research
 
 Tahalil Morsilin  
@@ -35,6 +37,8 @@ The data collected from the Mars Climate Database was analyzed through a series 
 The data reveals that there is a direct correlation between the level of temperature and the level of H2O ice layer. For instance, temperature at 250-300 Kelvin results in no H2O ice layer at all. However, if the temperature is toned down, around 200 Kelvin, an H2O ice layer begins accumulating the surface. This is only apparent at regions ranging from -60 to 60 degrees. In addition, as expected, temperature increases dramatically during midday, this is also when the level of H2O ice layer increases. On the other hand, the level of the CO2 Column relatively stayed the same with slight variations throughout the hours, but increased in the later season. For instance, if it was summer in the North or the South, an observer could easily interpret that there is indeed a strong influxes of carbon dioxide throughout the day. One of the key pieces of information that was learned through these observations was that the water ice layer is existent under the direct influence of relative amount of warmth. This is a clear indication that water ice layer can be produced if the tending of Mars was balanced; not too hot and not too cold.
 
 > **Figure (printed page):** Four Mars Climate Database maps, titled "MCD v5.2 with climatology average solar scenario. Ls 45.0deg. Altitude 2.0 m ALS Local time 12.0h (at longitude 0)." The panels plot longitude against latitude and include Temperature (K) and surface H2O ice layer (kg/m2, 0.5: perenial). Credit on the page: "Mars Climate Database (c) LMD/OU/IAA/ESA/CNES."
+
+<a href="scans/page-03.jpg"><img src="../assets/figures/mcd-maps.svg" width="100%" alt="Four Mars Climate Database maps"></a>
 
 ## Discussion
 
@@ -258,3 +262,5 @@ The original printed pages.
 11. [Page 12](scans/page-12.jpg)
 12. [Page 13](scans/page-13.jpg)
 13. [Page 14](scans/page-14.jpg)
+
+<a href="scans/"><img src="../assets/galleries/05-primary-research.svg" width="100%" alt="The original printed pages."></a>

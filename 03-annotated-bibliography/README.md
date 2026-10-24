@@ -1,3 +1,5 @@
+<a href="../README.md"><img src="../assets/banners/03-annotated-bibliography.svg" width="100%" alt="Reviving the Fallen: Ways to terraform planet Mars. 3. Annotated Bibliography."></a>
+
 # Annotated Bibliography
 
 Tahalil Morsilin
@@ -267,3 +269,5 @@ The original printed pages.
 15. [Page 15](scans/page-15.jpg)
 16. [Page 16](scans/page-16.jpg)
 17. [Page 17](scans/page-17.jpg)
+
+<a href="scans/"><img src="../assets/galleries/03-annotated-bibliography.svg" width="100%" alt="The original printed pages."></a>

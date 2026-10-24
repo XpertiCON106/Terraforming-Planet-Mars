@@ -1,3 +1,5 @@
+<a href="../README.md"><img src="../assets/banners/01-research-proposal.svg" width="100%" alt="Reviving the Fallen: Ways to terraform planet Mars. 1. Research Proposal."></a>
+
 # Research Proposal
 
 **Tahalil Morsilin**
@@ -59,3 +61,5 @@ The original printed pages.
 1. [Page 1](scans/page-01.jpg)
 2. [Page 2](scans/page-02.jpg)
 3. [Page 3](scans/page-03.jpg)
+
+<a href="scans/"><img src="../assets/galleries/01-research-proposal.svg" width="100%" alt="The original printed pages."></a>

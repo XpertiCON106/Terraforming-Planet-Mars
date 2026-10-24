@@ -1,3 +1,5 @@
+<a href="../README.md"><img src="../assets/banners/07-acknowledgements.svg" width="100%" alt="Reviving the Fallen: Ways to terraform planet Mars. 7. Acknowledgements."></a>
+
 # Acknowledgements
 
 Tahalil Morsilin
@@ -22,3 +24,5 @@ My interview with him was very profounding, for it forced me to think deeper int
 The original printed pages.
 
 1. [Page 1](scans/page-01.jpg)
+
+<a href="scans/"><img src="../assets/galleries/07-acknowledgements.svg" width="100%" alt="The original printed pages."></a>

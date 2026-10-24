@@ -1,3 +1,5 @@
+<a href="../README.md"><img src="../assets/banners/04-synthesis-paper.svg" width="100%" alt="Reviving the Fallen: Ways to terraform planet Mars. 4. Synthesis Paper."></a>
+
 # Synthesis Paper
 
 Tahalil Morsilin  
@@ -83,3 +85,5 @@ The original printed pages.
 10. [Page 10](scans/page-10.jpg)
 11. [Page 11](scans/page-11.jpg)
 12. [Page 12](scans/page-12.jpg)
+
+<a href="scans/"><img src="../assets/galleries/04-synthesis-paper.svg" width="100%" alt="The original printed pages."></a>

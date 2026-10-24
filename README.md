@@ -1,6 +1,6 @@
-# Reviving the Fallen: Ways to terraform planet Mars
+<img src="assets/cover.svg" width="100%" alt="Reviving the Fallen. Terraforming Planet Mars. What is the most effective way to terraform the planet Mars? Tahalil Morsilin, Independent Research GT, 2014-15.">
 
-<p align="center"><img src="cover.jpg" alt="Project cover: Reviving the Fallen, Terraforming Planet Mars" width="420"></p>
+# Reviving the Fallen: Ways to terraform planet Mars
 
 **Author:** Tahalil Morsilin
 
@@ -14,19 +14,22 @@ The chances of planet Earth ever becoming too inhospitable for living organisms 
 
 ## Research question
 
-What is the most effective way to terraform the planet Mars?
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/research-question-dark.svg">
+  <img src="assets/research-question-light.svg" width="100%" alt="What is the most effective way to terraform the planet Mars?">
+</picture>
 
 ## Table of contents
 
-| # | Section | Status |
-| --- | --- | --- |
-| 1 | [Research Proposal](01-research-proposal/README.md) | Complete |
-| 2 | [Abstract](02-abstract/README.md) | Complete |
-| 3 | [Annotated Bibliography](03-annotated-bibliography/README.md) | Complete |
-| 4 | [Synthesis Paper](04-synthesis-paper/README.md) | Complete |
-| 5 | [Primary Research](05-primary-research/README.md) | Complete |
-| 6 | [Final Product and Presentations](06-final-product-and-presentations/README.md) | Complete |
-| 7 | [Acknowledgements](07-acknowledgements/README.md) | Complete |
+<p align="center">
+  <a href="01-research-proposal/README.md"><img src="assets/sections/01-research-proposal.svg" width="49%" alt="1. Research Proposal. Complete."></a>
+  <a href="02-abstract/README.md"><img src="assets/sections/02-abstract.svg" width="49%" alt="2. Abstract. Complete."></a>
+  <a href="03-annotated-bibliography/README.md"><img src="assets/sections/03-annotated-bibliography.svg" width="49%" alt="3. Annotated Bibliography. Complete."></a>
+  <a href="04-synthesis-paper/README.md"><img src="assets/sections/04-synthesis-paper.svg" width="49%" alt="4. Synthesis Paper. Complete."></a>
+  <a href="05-primary-research/README.md"><img src="assets/sections/05-primary-research.svg" width="49%" alt="5. Primary Research. Complete."></a>
+  <a href="06-final-product-and-presentations/README.md"><img src="assets/sections/06-final-product-and-presentations.svg" width="49%" alt="6. Final Product and Presentations. Complete."></a>
+  <a href="07-acknowledgements/README.md"><img src="assets/sections/07-acknowledgements.svg" width="49%" alt="7. Acknowledgements. Complete."></a>
+</p>
 
 All seven sections are transcribed from the printed pages. Each section has a `scans/` folder for photographs of the original pages.
 

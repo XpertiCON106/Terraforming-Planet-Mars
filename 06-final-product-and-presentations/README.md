@@ -1,3 +1,5 @@
+<a href="../README.md"><img src="../assets/banners/06-final-product-and-presentations.svg" width="100%" alt="Reviving the Fallen: Ways to terraform planet Mars. 6. Final Product and Presentations."></a>
+
 # Final Product and Presentations
 
 Tahalil Morsilin
@@ -18,6 +20,8 @@ I would also like to thank Mikaze Noel for assisting me with the shooting of the
 
 > **Printed page:** Three stills from the film: a rocket launching above the blue edge of Earth, an animated O2 and H2 molecule diagram, and planet Earth seen from space.
 
+<a href="scans/page-2-film-snapshot.jpg"><img src="../assets/figures/film-stills.svg" width="100%" alt="Three stills from the film: a rocket launching above the blue edge of Earth, an animated O2 and H2 molecule diagram, and planet Earth seen from space."></a>
+
 ## Presentation Summary
 
 The goal of this presentation was to educate the audience regarding the various aspects of terraforming, and especially terraforming planet Mars.
@@ -37,6 +41,8 @@ Towards the end of the presentation, the ethical implications of terraforming pl
 ## Presentation Slides (6/10/2015)
 
 The slides were printed as small handouts, so the text below is read from those thumbnails. Some of the fine print was too small to read and is marked as such.
+
+<a href="scans/"><img src="../assets/figures/slides.svg" width="100%" alt="Presentation Slides (6/10/2015)"></a>
 
 1. **Opening slide:** A glowing green ring on a dark background.
 2. **Title slide:** Tahalil Morsilin / Independent Research G/T / Reservoir High School / Ehouarn Millour / CNRS Research Engineer at / Laboratoire de Meteorologie Dynamique (LMD) / Terraforming Planet **Mars**
@@ -61,6 +67,11 @@ The slides were printed as small handouts, so the text below is read from those 
    | HCl | 0.08 | 0.42 | 2.89 |
    | HF | — | — | 0.26 |
 
+   <picture>
+     <source media="(prefers-color-scheme: dark)" srcset="../assets/figures/volcanic-gases-dark.svg">
+     <img src="../assets/figures/volcanic-gases-light.svg" width="100%" alt="Phase 2! Volcanic gas composition">
+   </picture>
+
 8. **Methods of Terraforming**
    - Utilization of space based mirrors which will melt the polar caps in order to release the carbon dioxide
    - Nuking planet Mars in order to raise the overall temperature of the planet
@@ -83,3 +94,5 @@ The original printed pages.
 3. [Presentation Summary](scans/page-3-presentation-summary.jpg)
 4. [Presentation slides 1–6](scans/page-4-slides-1-6.jpg)
 5. [Presentation slides 7–11](scans/page-5-slides-7-11.jpg)
+
+<a href="scans/"><img src="../assets/galleries/06-final-product-and-presentations.svg" width="100%" alt="The original printed pages."></a>
