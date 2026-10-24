@@ -30,34 +30,3 @@ The chances of planet Earth ever becoming too inhospitable for living organisms 
   <a href="06-final-product-and-presentations/README.md"><img src="assets/sections/06-final-product-and-presentations.svg" width="49%" alt="6. Final Product and Presentations. Complete."></a>
   <a href="07-acknowledgements/README.md"><img src="assets/sections/07-acknowledgements.svg" width="49%" alt="7. Acknowledgements. Complete."></a>
 </p>
-
-All seven sections are transcribed from the printed pages. Each section has a `scans/` folder for photographs of the original pages.
-
-## Repository structure
-
-```text
-.
-├── README.md
-├── .gitignore
-├── 01-research-proposal/
-│   ├── README.md
-│   └── scans/
-├── 02-abstract/
-│   ├── README.md
-│   └── scans/
-├── 03-annotated-bibliography/
-│   ├── README.md
-│   └── scans/
-├── 04-synthesis-paper/
-│   ├── README.md
-│   └── scans/
-├── 05-primary-research/
-│   ├── README.md
-│   └── scans/
-├── 06-final-product-and-presentations/
-│   ├── README.md
-│   └── scans/
-└── 07-acknowledgements/
-    ├── README.md
-    └── scans/
-```
